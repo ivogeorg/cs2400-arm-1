@@ -9,5 +9,5 @@
 		;		Your code here
 		
 numbers	DCD		0xA0BCFF0D, 0xFFF0ADEA
-result	FILL		4
+result	FILL		8
 carry	FILL		4
