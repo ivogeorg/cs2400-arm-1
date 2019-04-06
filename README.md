@@ -2,7 +2,7 @@
 ARM assembly programming assignment #1
 
 ## Instructions
-The instructions are in the files themselves.
+The instructions are in the files themselves. Assume **unsigned integer** multiplication. We'll add support for signed integers in a subsequent assignment.
 
 ## Support materials
 You might find the following materials useful:
