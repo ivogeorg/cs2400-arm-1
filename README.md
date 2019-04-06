@@ -11,7 +11,11 @@ You might find the following materials useful:
 3. [ARM arithmetic instructions (slides)](https://cseweb.ucsd.edu/classes/su14/cse30-b/lectures/PI_CSE30_lecture_4.pdf)
 4. [ARM shift operations (@ Dave Space)](http://www.davespace.co.uk/arm/introduction-to-arm/barrel-shifter.html)
 5. [ARM shift operations (ARM Documentation)](http://infocenter.arm.com/help/index.jsp?topic=/com.arm.doc.dui0489h/CIHDDCIF.html)
-6. [Binary multiplication (solid overview with ARM example code](https://www.sciencedirect.com/topics/engineering/binary-multiplication)
+6. [Binary multiplication (solid overview with ARM example code)](https://www.sciencedirect.com/topics/engineering/binary-multiplication)
+7. COReARM Chapter 3 (pp.191-196): Multiplication
+8. ARMBook Chapter 12 (pp.113-116): Multiplication
+9. TODO: TST & TEQ instructions; masks
+10. TODO: Signed vs unsigned
 
 ## Submission
 1. Fork this repository.
