@@ -4,6 +4,15 @@ ARM assembly programming assignment #1
 ## Instructions
 The instructions are in the files themselves.
 
+## Support materials
+You might find the following materials useful:
+1. [Add-n-shift multiplication explained (reading)](http://users.utcluj.ro/~baruch/book_ssce/SSCE-Shift-Mult.pdf)
+2. [Add-n-shift multiplication explained (video)](https://www.youtube.com/watch?v=U62iP8RkZIk)
+3. [ARM arithmetic instructions (slides)](https://cseweb.ucsd.edu/classes/su14/cse30-b/lectures/PI_CSE30_lecture_4.pdf)
+4. [ARM shift operations (@ Dave Space)](http://www.davespace.co.uk/arm/introduction-to-arm/barrel-shifter.html)
+5. [ARM shift operations (ARM Documentation)](http://infocenter.arm.com/help/index.jsp?topic=/com.arm.doc.dui0489h/CIHDDCIF.html)
+6. [Binary multiplication (solid overview with ARM example code](https://www.sciencedirect.com/topics/engineering/binary-multiplication)
+
 ## Submission
 1. Fork this repository.
 2. Clone to your development environment.
