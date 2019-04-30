@@ -2,7 +2,7 @@
 		;
 		;		Write a 32-bit multiplier.
 		;		Use the standard shift-and-add operation.
-		;		Use the two numbers as an example but write it so it works for any two 16-bit numbers.
+		;		Use the two numbers as an example but write it so it works for any two 32-bit numbers.
 		;		Write the result in the provided "fill" word.
 		;		Indicate if there was a high-bit carry using the provided "fill" word.
 		
